@@ -1,0 +1,22 @@
+{
+  "name": "npm-jquery-2.1.3",
+  "version": "1.11.2",
+  "description": "jQuery @ 2.1.3",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:laustdeleuran/npm-jquery-2.1.3.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "Laust Deleuran <ljd@ljd.dk> (http://ljd.dk)",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "2.1.3"
+  }
+}
